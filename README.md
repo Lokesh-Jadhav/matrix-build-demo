@@ -2,4 +2,5 @@
 
 This repository demonstrates a GitHub Actions matrix build that runs multiple configurations in parallel.
 
-**Maintainer:** yourname@example.com
+**Maintainer:** 21f1003306@ds.study.iitm.ac.in
+
